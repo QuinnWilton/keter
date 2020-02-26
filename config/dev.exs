@@ -61,7 +61,8 @@ config :keter, KeterWeb.Endpoint,
       ~r"priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$",
       ~r"priv/gettext/.*(po)$",
       ~r"lib/keter_web/(live|views)/.*(ex)$",
-      ~r"lib/keter_web/templates/.*(eex)$"
+      ~r"lib/keter_web/templates/.*(eex)$",
+      ~r"posts/*/.*(md)$"
     ]
   ]
 
