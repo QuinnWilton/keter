@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/shanewilton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shanewilton.com
+  * I am shanewilton (https://keybase.io/shanewilton) on keybase.
+  * I have a public key with fingerprint 0A7A ED10 24EF 951C 24D5  941A 546C 5CD9 2DC3 BED7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.4"
+        },
+        "key": {
+            "fingerprint": "0a7aed1024ef951c24d5941a546c5cd92dc3bed7",
+            "host": "keybase.io",
+            "key_id": "546C5CD92DC3BED7",
+            "uid": "31cf59a0fea6ee0124dd792104add300",
+            "username": "shanewilton"
+        },
+        "merkle_root": {
+            "ctime": 1402388307,
+            "hash": "20760dae720531578d82dec2cd04905db9de41e72702109b626f75073ed5e4fdde8cbb36b02b9ccd8bf28d4cd432154a3e29635326c4379d21ce666746118585",
+            "seqno": 15810
+        },
+        "service": {
+            "hostname": "shanewilton.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402391636,
+    "expire_in": 157680000,
+    "prev": "89a207aa8f5f423be7a8efbd10f2fb3840614721b166292829a62a536b4318cf",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFlkntQFXUUxy9gCQzlZaR8kGWrOTEi7v72fasJvYiSjjJiqcR03d3fb+9d4D7Y
+e7lXQopGBvCFDhOoVBKTGIKaImoMQYgpGAzjYEhYozYq5oPsMUJMDPRbhiab9q/d
+PZ9zzvd7ztnzVIgpPGhdZlr/onMtfUGdd2VTSnnXxlxCdsMcwpJLKJkacvmMN5fk
+RISFyEA5suRFcZp7rssNUVy6d+4kE0v4ke7V3C5MkXFMHEPkxRq4kaxqLjvSPbpm
+1CJIiZcQpEjAIFVkKQUwkBUZSmIZTmEVKAKo0DKCPC7pcHt9/+lKTNS0aRD/xbyV
+tSaIIMFKL12WYPDZEwGaUlRWlEgVSRxCJIUbQF4EFMlIENIkaYBepE9a8jokFwpo
+mT4sHUt2Ij0jE9l0t3vCt+LTDIpiSEALAk3yWJTkdeA8QPIcCSXEA5KlKZYXoAAg
+UoACSUYkWSiLEDEUDvMkbi3KHOBUniV5GkEWMSqESFBkmeZkEsiiokBBVoEAGQUy
+NKBYRqIREDmapQGnMDQvQkApiOM4nuEoSmAFFrvwoiyXG4tjBYrMMz51v6YgQ7Yx
+uP/7i1PcTpzm0d0+t+LOxEGHz+exGLZ9OR4M1xMBJNsm69hkzQXx5h5fLYXRx0ci
+UhzNxRJos0fTkU0zCJbnBBI/Rh/kxz0EUcKzkiRBZVUG4NXykoBUGV+AClSZFhiS
+oxgeUDLFcUAEAhAlDkgsngxDU4Ki/msUYJ2S3fCk2V2SL1tHRN624OemmILCTU8+
+EWzcrik8zPzPQWetnjbuJSL26r/sqAtrC7lw8zUuN21DUOr77c5jrbf1T3vuFMmJ
+oTMf/b64tNo0Xp/8+eoTC6NXrTjzYatjzt3B7OstUYc8+fnpV5pKzx198fKRmNeP
+ji37+ljF+bLf9MttR490X7hf0X3hzeZdN+seiIcZ9VqgJs23QrGHre1oX/lRs//g
+O9S3s+n67+PvteffWFp532we3tSRcC371ui8/MKSxp0pCxxL9P6k6Q3zZ2a/ta8y
+5fYbIR/QjTEJx+vKK2acqVmRMvBS4tl068KS/cdjTEE3upIfNuT1yA/bmM7dvd4X
+ysvGS6LmfHFq/y5L92bVPJDlGyuPuRinj2z5KzXym9Cna8YXPKgd+WkV/UPDhnN7
+pgxWbemaat8qKBmh5mZLbeTuIS54muVKSn/T6LWW3AMB1KgPF0UUH6n+6nx/wP5K
+ahU/b/CPKzP827f9bPuyOjHikBfU5wb0nAwqQh9c8PHa5b1Vw+ol0G1dH3+YSErc
+6sg5+WvFZz2d746mZjd+ktZ1dm+T+XrR1VPzn33GMlaF/ozuny6sK1p0Y+riUwWh
+3MsHwezlld/1tUadzEuaC35cM1A6WDbLufdObfLza9ZfnTf7ZHRBcUtsW2GWs6jx
+QOTO9zL3bezwnhhKuVizMlTYcedttOn00JIqpqf3UWVEVnFfYdqI9d6rGac3NidX
+3IryFcdHFsxqS030By79DQ==
+=HsYU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shanewilton
+
+==================================================================

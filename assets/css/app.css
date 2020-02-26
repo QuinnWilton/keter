@@ -1,3 +1,17 @@
-/* This file is for your main application css. */
+body {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('/images/background.gif');
+  font: 100% "Comic Sans MS";
+  color: #FFFFFF;
+  text-align: center;
+}
 
-@import "./phoenix.css";
+#Narcissism {
+  border: 1px solid Pink;
+}
+
+li {
+  list-style-position: inside;
+}

@@ -22,7 +22,7 @@ defmodule KeterWeb.Endpoint do
     at: "/",
     from: :keter,
     gzip: false,
-    only: ~w(css fonts images js favicon.ico robots.txt)
+    only: ~w(css fonts images js favicon.ico robots.txt keybase.txt skaterboi.mp3)
 
   # Code reloading can be explicitly enabled under the
   # :code_reloader configuration of your endpoint.
