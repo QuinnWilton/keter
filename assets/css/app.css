@@ -1,3 +1,5 @@
+@import "./blog.css";
+
 body {
   width: 75%;
   margin-left: auto;
@@ -5,13 +7,33 @@ body {
   background-image: url('/images/background.gif');
   font: 100% "Comic Sans MS";
   color: #FFFFFF;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  color: purple;
+}
+
+li {
+  list-style-position: inside;
+  list-style-type: none;
+}
+
+.center-box {
   text-align: center;
 }
 
 #Narcissism {
   border: 1px solid Pink;
-}
-
-li {
-  list-style-position: inside;
 }

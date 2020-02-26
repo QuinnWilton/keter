@@ -1,0 +1,5 @@
+.blog-post img {
+  max-width: 50vw;
+  display:block;
+  margin:auto;
+}

@@ -17,10 +17,8 @@ defmodule KeterWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
-  end
 
-  # Other scopes may use custom stacks.
-  # scope "/api", KeterWeb do
-  #   pipe_through :api
-  # end
+    get "/blog", BlogController, :index
+    get "/blog/:id", BlogController, :show
+  end
 end

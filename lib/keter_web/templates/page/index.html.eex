@@ -1,13 +1,15 @@
-<h1>Welcome to my web page!</h1>
+<section class="center-box">
+  <h1>Welcome to my web page!</h1>
 
-<img id="Narcissim" src="/images/quinnwilton.png">
+  <img id="Narcissim" src="/images/quinnwilton.png">
 
-<p>
-  I'm a security engineer with a passion for B-movies and an eye for design.
-</p>
+  <p>
+    I'm a security engineer with a passion for B-movies and an eye for design.
+  </p>
 
-<ul>
-  <li>Follow me on&nbsp<a href="https://github.com/quinnwilton" target="_blank">Github</a></li>
-  <li>Contact me with&nbsp<a href="https://keybase.io/quinnwilton" target="_blank">Keybase</a></li>
-  <li>Do the&nbsp<a href="https://twitter.com/@wilton_quinn" target="_blank">Twitter</a></li>
-</ul>
+  <ul>
+    <li>Read my <%= link "stuff", to: Routes.blog_path(@conn, :index) %></li>
+    <li>Follow me on <%= link "Github", to: "https://github.com/quinnwilton" %></li>
+    <li>Contact me with <%= link "Keybase", to: "https://keybase.io/quinnwilton" %></li>
+  </ul>
+</section>
