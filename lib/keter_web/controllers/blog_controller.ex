@@ -3,10 +3,19 @@ defmodule KeterWeb.BlogController do
 
   alias Keter.Blog
 
-  def index(conn, _params) do
-    posts = Blog.list_posts()
+  def index(conn, params) do
+    posts =
+      case params do
+        %{"tag" => tag} ->
+          Blog.get_posts_by_tag!(tag)
 
-    render(conn, "index.html", posts: posts, page_title: "Quinn's Blog")
+        _ ->
+          Blog.list_posts()
+      end
+
+    tags = Blog.list_tags()
+
+    render(conn, "index.html", posts: posts, tags: tags, page_title: "Quinn's Blog")
   end
 
   def show(conn, %{"id" => id}) do

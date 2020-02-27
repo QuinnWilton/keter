@@ -2,9 +2,7 @@
 HelloMike Writeup
 
 ==tags==
-ctf
-reverse engineering
-erlang
+ctf, reverse engineering, erlang
 
 ==body==
 I regularly compete in CTFs as part of the team Samurai. For those of you unfamiliar with the concept, they’re essentially security contests which task the competitors with reverse engineering binaries, exploiting services, and breaking cryptography. The goal of each challenge is to find the flag —usually a file hidden on a server, or the result of cracking a ciphertext.

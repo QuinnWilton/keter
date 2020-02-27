@@ -2,8 +2,7 @@
 Blocky's Revenge Writeup
 
 ==tags==
-ctf
-reverse engineering
+ctf, reverse engineering
 
 ==body==
 This past weekend was host to [Ghost in the Shellcode 2015](http://ghostintheshellcode.com/), an incredible CTF run by the excellent people in Men in Black Hats and Marauders. The team I play for, Samurai, ended up placing 2nd.

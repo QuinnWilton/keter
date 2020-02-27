@@ -1,5 +1,11 @@
 <h1>Welcome to my blog!</h1>
 
+<%= link "all", to: Routes.blog_path(@conn, :index) %>
+
+<%= for tag <- @tags do %>
+  <%= link tag, to: Routes.blog_path(@conn, :index, tag: tag) %>&nbsp
+<% end %>
+
 <ul>
   <%= for post <- @posts do %>
     <li>
