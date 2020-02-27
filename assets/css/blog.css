@@ -3,3 +3,15 @@
   display:block;
   margin:auto;
 }
+
+.blog-back {
+  width: 75px;
+}
+
+.blog-home {
+  float: right;
+}
+
+.blog-home img {
+  width: 100px;
+}

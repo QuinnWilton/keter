@@ -1,3 +1,5 @@
+<a href="<%= Routes.blog_path(@conn, :index) %>"><img class="blog-back" src="/images/back.png" /></a>
+
 <section class="blog-post">
   <h1><%= @post.title %></h1>
   <h2><%= Date.to_string(@post.date) %></h2>

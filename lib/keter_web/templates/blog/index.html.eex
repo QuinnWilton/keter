@@ -1,5 +1,10 @@
 <h1>Welcome to my blog!</h1>
 
+<div class="blog-home">
+  Click here to go home -> <a href="<%= Routes.page_path(@conn, :index) %>"><img src="/images/home.png" /></a>
+</div>
+
+
 <ul>
   <%= for post <- @posts do %>
     <li>
