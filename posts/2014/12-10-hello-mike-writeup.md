@@ -11,6 +11,8 @@ During this year’s [9447 CTF](https://9447.plumbing/home) there was a neat cha
 
 > The flag is 9447{$STR} where $STR is the shortest string that is accepted by this binary. If multiple accepted strings have the same length, you must use the lexicographically least such string.
 
+> [hellomike.beam](https://github.com/ctfs/write-ups-2014/blob/master/9447-ctf-2014/hellomike/hellomike.beam?raw=true)
+
 > Hint: https://www.youtube.com/watch?v=uKfKtXYLG78
 
 Aside: If you’d like to follow along, install the [latest version](https://www.erlang-solutions.com/downloads/download-erlang-otp) of Erlang/OTP, with HiPE.
