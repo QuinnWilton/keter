@@ -5,10 +5,6 @@ defmodule Keter.Blog do
     defexception [:message, plug_status: 404]
   end
 
-  for app <- [:earmark, :makeup_elixir] do
-    Application.ensure_all_started(app)
-  end
-
   posts_paths =
     "posts/**/*.md"
     |> Path.wildcard()
