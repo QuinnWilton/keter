@@ -26,6 +26,18 @@
       <audio controls autoplay>
         <source src="/skaterboi.mp3" type="audio/mpeg" />
       </audio>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <br/>
+      <img src="/images/dancinglemon.gif">
+      oh no lemon is coming for you!
     </footer>
     <script type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
   </body>
