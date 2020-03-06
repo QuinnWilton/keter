@@ -37,7 +37,7 @@
       <br/>
       <br/>
       <img src="/images/dancinglemon.gif">
-      oh no lemon is coming for you!
+      oh no
     </footer>
     <script type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
   </body>
